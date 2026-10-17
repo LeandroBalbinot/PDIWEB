@@ -1,0 +1,27 @@
+div1 {
+    border:1px;
+    border-color:red;
+    
+}
+
+header { 
+    color: white;
+    background-color: blue;
+    text-align:center;
+    font-size:12px;
+}
+
+nav { 
+    color: white;
+    background-color: black;
+    text-align:center;
+    font-size:18px;
+}
+
+
+S1 { 
+    color: blue;
+    background-color: black;
+    text-align:center;
+    font-size:18px;
+}
