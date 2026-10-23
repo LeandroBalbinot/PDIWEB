@@ -8,14 +8,14 @@ header {
     color: white;
     background-color: blue;
     text-align:center;
-    font-size:12px;
+    font-size:10px;
 }
 
 nav { 
     color: white;
     background-color: black;
     text-align:center;
-    font-size:18px;
+    font-size:8px;
 }
 
 
@@ -24,4 +24,50 @@ S1 {
     background-color: black;
     text-align:center;
     font-size:18px;
+}
+
+table, th,td {
+    border: solid 1px #000000;
+    border: solid 1px #000FFF;
+    border-collapse: collapse;
+    padding: 3px;
+    text-align: center;
+}
+
+a:link {
+    color:#E64833;
+}
+
+a:visited {
+    color:#874F41;
+}
+
+a:hover {
+    color:#90AEAD;
+}
+
+a:active {
+    color: #FBE9D0;
+}
+
+thead {
+    background-color:antiquewhite;
+}   
+
+tbody {
+    background-color:aliceblue;
+}
+
+#menu ul {
+    padding:0px;
+    margin:0 auto;
+    background-color: #244855;
+    list-style: none;
+    text-align:center;
+}
+
+#menu li {
+    padding: 10px 3px;
+    display: inline;
+    font-family: Comic;
 }
