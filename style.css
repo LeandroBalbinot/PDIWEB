@@ -71,3 +71,7 @@ tbody {
     display: inline;
     font-family: Comic;
 }
+
+#menu a {
+     font-size:24px;
+}
